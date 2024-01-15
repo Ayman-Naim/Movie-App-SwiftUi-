@@ -11,7 +11,8 @@ import SwiftUI
 struct Movie_App_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreen()
+            //HomeView()
         }
     }
 }

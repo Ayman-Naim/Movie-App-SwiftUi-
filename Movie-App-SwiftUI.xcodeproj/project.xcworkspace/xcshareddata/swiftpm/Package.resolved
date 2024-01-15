@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "cosmos",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/evgenyneu/Cosmos.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "1d722aefaba9eafa22e32da46ce473e051c4e445"
+      }
+    },
+    {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-ios.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "2562590cdf597277efbd3d9edaa65931b7cfd5b7"
+      }
+    }
+  ],
+  "version" : 2
+}
